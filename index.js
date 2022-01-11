@@ -363,7 +363,7 @@ const listOrder = () => {
         t.cell("total cost (Rp)", total + item.shipping_cost, Table.number(0));
         t.newRow();
         t.total("shipping_cost (Rp)");
-        t.total("total price (Rp)");
+        t.total("total cost (Rp)");
       });
       console.log(t.toString());
 
