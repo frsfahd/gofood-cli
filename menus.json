@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "61dbd58dd36eb223a38c5ce7"
+  },
+  "resto": {
+    "$oid": "61dbd48e3096c8262996c028"
+  },
+  "menu_name": "Chicken Muffin",
+  "price": 30000,
+  "menu_type": "food",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dbd5a88b8c161d5ff33d84"
+  },
+  "resto": {
+    "$oid": "61dbd443daf7ac8c80a8f5e3"
+  },
+  "menu_name": "Cream Soup",
+  "price": 15000,
+  "menu_type": "food",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dbd5bd2dd01eb8875fdfa9"
+  },
+  "resto": {
+    "$oid": "61dbd443daf7ac8c80a8f5e3"
+  },
+  "menu_name": "Iced Tea",
+  "price": 10000,
+  "menu_type": "beverage",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dbd5d0427630a56ea9f108"
+  },
+  "resto": {
+    "$oid": "61dbd48e3096c8262996c028"
+  },
+  "menu_name": "Iced Coffee",
+  "price": 10000,
+  "menu_type": "beverage",
+  "__v": 0
+}]
