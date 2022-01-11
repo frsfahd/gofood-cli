@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "61dbd443daf7ac8c80a8f5e3"
+  },
+  "resto_name": "KFC Mustikajaya",
+  "phone": "123-345-6666",
+  "address": "jl. Mustikakaja no.10, Kota bekasi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dbd48e3096c8262996c028"
+  },
+  "resto_name": "McDonald's Bantar Gebang",
+  "phone": "222-333-4567",
+  "address": "jl. Bantargebang no.9, Kota Bekasi",
+  "__v": 0
+}]

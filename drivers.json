@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "61dd705de143e652ed696380"
+  },
+  "name": {
+    "firstname": "Untung",
+    "lastname": "Suropati"
+  },
+  "email": "untung@yahoo.com",
+  "phone": "123-567-9999",
+  "address": "Lubang Buaya, Jakarta Timur",
+  "vehicle": {
+    "license_number": "B4122KGS",
+    "year": 2016,
+    "v_type": "Honda Genio"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dd7119c57a9be206cdc4c7"
+  },
+  "name": {
+    "firstname": "Raymond",
+    "lastname": "Widodo"
+  },
+  "email": "widodo@upi.edu",
+  "phone": "123-123-1111",
+  "address": "Den haag, netherland",
+  "vehicle": {
+    "license_number": "E1022SED",
+    "year": 2019,
+    "v_type": "Honda CBR"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dd9a5b7076510127b94c79"
+  },
+  "name": {
+    "firstname": "Rio",
+    "lastname": "Ramadha"
+  },
+  "email": "rio@upi.edu",
+  "phone": "000-123-0000",
+  "address": "Bandung",
+  "vehicle": {
+    "license_number": "D1234CVD",
+    "year": 2018,
+    "v_type": "Honda Vario"
+  },
+  "__v": 0
+}]
