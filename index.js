@@ -391,7 +391,7 @@ const addDriver = (driver) => {
 const findDriver = (name) => {
   // Make case insencitive
   const search = new RegExp(name, "i");
-  Customer.find({
+  Driver.find({
     $or: [{ "name.firstname": search }, { "name.lastname": search }],
   }).then((driver) => {
     // Table

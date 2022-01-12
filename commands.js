@@ -115,7 +115,7 @@ const questionsMenu = [
   {
     type: "rawlist",
     name: "resto",
-    message: "Restorant ID",
+    message: "Restorant",
     choices: () =>
       Restorant.find().then((resto) => {
         var x = [];
@@ -192,7 +192,7 @@ const questionsOrder = [
   {
     type: "checkbox",
     name: "menu",
-    message: "Menu ID",
+    message: "Menu",
     choices: () =>
       Menu.find({ resto: resto_id }).then((menu) => {
         var x = [];
