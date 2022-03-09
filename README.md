@@ -6,9 +6,8 @@ a simple GoFood management system built with NodeJS CLI and MongoDB
 ## usage
 
 1. clone or download this project 
-2. initialize node project inside the directory using ```npm init```
-3. install dependencies ```npm install``` 
- 4. run with ```node commands```
+2. install dependencies ```npm install``` 
+3. run with ```node commands```
  
  ## references
  
