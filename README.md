@@ -7,9 +7,7 @@ a simple GoFood management system built with NodeJS CLI and MongoDB
 
 1. clone or download this project 
 2. initialize node project inside the directory using ```npm init```
-3. install dependencies
-
-       npm install mongoose commander inquirer cli-logo easy table inquirer-datepicker-prompt
+3. install dependencies ```npm install``` 
  4. run with ```node commands```
  
  ## references
