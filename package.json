@@ -1,0 +1,21 @@
+{
+  "name": "gofood-cli",
+  "version": "1.0.0",
+  "description": "GoFood management system CLI",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "farraselfahd",
+  "license": "ISC",
+  "dependencies": {
+    "cli-logo": "^0.3.0",
+    "commander": "^8.3.0",
+    "easy-table": "^1.2.0",
+    "inquirer": "^8.2.0",
+    "inquirer-datepicker-prompt": "^0.4.2",
+    "mongoose": "^6.1.5"
+  }
+}
