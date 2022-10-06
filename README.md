@@ -17,4 +17,4 @@ a simple GoFood management system built with NodeJS CLI and MongoDB
  - [easy-table](https://github.com/eldargab/easy-table)
  - [inquirer-datepicker-prompt](https://github.com/DerekTBrown/inquirer-datepicker-prompt)
  - [cli-logo](https://github.com/labs-js/cli-logo)
- - [[video] Build A Command Line Interface With Node.js & MongoDB](https://youtu.be/v2GKt39-LPA)
+ 
